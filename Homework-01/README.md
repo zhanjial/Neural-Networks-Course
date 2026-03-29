@@ -18,17 +18,17 @@
 
 ### 3. 环境要求
 * pandas
-*numpy
-*torch>=2.0.0
-*matplotlib
-*scikit-learn
-*seaborn
+* numpy
+* torch>=2.0.0
+* matplotlib
+* scikit-learn
+* seaborn
 
 ### 4. 实验结果展示
 在此展示使用神经网络预测的核心成果（详细对比请参阅实验报告）：
 
 #### 模型在测试集上的预测值与真实值对比图：
-![测试集预测对比图](Homework-01/result_plot.png)
+![测试集预测对比图](result_plot.png)
 
 ---
 
